@@ -1,1 +1,5 @@
 We make this project with Java and My SQL as the database and oth frontend and backend are based on JAVA
+First of all you need to have My SQL in which you need to run the database file which is uploaded.
+Then you have to have eclipse then run all the files which on eclipse
+Then import this connection with this Jar files which is also uploaded and this jar file will make the JDBC connection with the database.
+Now run and enjoy this Project.
